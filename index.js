@@ -12,7 +12,7 @@ if (answer1==="CDE" || answer1==="cde"){
 } else {console.log ("Wrong! The answer is C, D, and E");
 }
 
-// Q2 score++; || score = score + 1; Adds 1 to the score next time it runs. 
+// Q2 
     console.log ("Question 2: Which are the three largest metropolitan cities in the world?");
     console.log("(A) Tokyo\n(B) Jakarta\n(C) Delhi\n(D) New York\n(E) London");
     
